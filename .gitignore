@@ -1,0 +1,7 @@
+auth.txt
+go.sum
+go.mod
+bearer.dat
+tado.conf
+execd.conf
+Makefile
